@@ -1,1 +1,0 @@
-print("Ovo su daruvarske toplice.")
